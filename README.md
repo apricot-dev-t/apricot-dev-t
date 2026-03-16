@@ -1,3 +1,5 @@
+English | [中文](README_CN.md)
+
 <h1 align="center">Tian</h1>
 
 <h3 align="center">Backend Engineer | Java | Spring Ecosystem</h3>
