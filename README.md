@@ -14,15 +14,15 @@ Backend developer focusing on Spring ecosystem and scalable web systems.
 
 # 🚀 About Me
 
-🎯 Backend Engineer based in **Qingdao**
+- Backend Engineer based in **Qingdao**
 
-💻 1+ year experience in **Java backend development**
+- 1+ year experience in **Java backend development**
 
-⚙️ Focus on **Spring Boot ecosystem & distributed systems**
+- Focus on **Spring Boot ecosystem & distributed systems**
 
-🤖 Currently exploring **AI / LLM + backend system integration**
+- Currently exploring **AI / LLM + backend system integration**
 
-📚 Passionate about building **scalable, high-performance systems**
+- Passionate about building **scalable, high-performance systems**
 
 ---
 
@@ -79,7 +79,7 @@ UI Frameworks
 
 # 📦 Featured Projects
 
-## 🧠 Intelligent Operation Platform
+##  Intelligent Operation Platform
 
 Smart operation & maintenance platform for improving system monitoring efficiency.
 
@@ -96,7 +96,7 @@ Spring Boot · MyBatis Plus · Redis · MySQL · Docker
 
 ---
 
-## 💻 CodeNest Platform
+## CodeNest Platform
 
 Developer-oriented platform focused on improving code management and development efficiency.
 
@@ -126,52 +126,11 @@ Research directions:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apricot-dev-t&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apricot-dev-t&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apricot-dev-t&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=apricot-dev-t&theme=tokyonight&row=1"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=apricot-dev-t&color=blue"/>
-
-</p>
-
----
 
 # 🌎 Connect With Me
 
+Email: 18661344507@163.com
+
 Backend Engineer | Java | Distributed Systems
 
-Exploring **AI + Backend Architecture**
-
-Always learning new technologies 🚀
+Currently exploring **AI + Backend Architecture**
