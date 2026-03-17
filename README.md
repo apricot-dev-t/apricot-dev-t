@@ -14,7 +14,7 @@ Backend developer focusing on Spring ecosystem and scalable web systems.
 
 ---
 
-# 🚀 About Me
+### 🚀 About Me
 
 - Backend Engineer based in **Qingdao**
 
@@ -28,9 +28,9 @@ Backend developer focusing on Spring ecosystem and scalable web systems.
 
 ---
 
-# 🧠 Tech Stack
+###  Tech Stack
 
-### Backend
+#### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,docker,redis,kafka,rabbitmq,elasticsearch,linux,maven"/>
@@ -43,7 +43,7 @@ Backend developer focusing on Spring ecosystem and scalable web systems.
 
 ---
 
-### Frontend
+#### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,vite"/>
@@ -59,7 +59,7 @@ UI Frameworks
 
 ---
 
-### Database
+#### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
@@ -67,7 +67,7 @@ UI Frameworks
 
 ---
 
-### DevOps & Infrastructure
+#### DevOps & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,kubernetes"/>
@@ -79,9 +79,9 @@ UI Frameworks
 
 ---
 
-# 📦 Featured Projects
+### 📦 Featured Projects
 
-##  Intelligent Operation Platform
+#####  Intelligent Operation Platform
 
 Smart operation & maintenance platform for improving system monitoring efficiency.
 
@@ -98,7 +98,7 @@ Spring Boot · MyBatis Plus · Redis · MySQL · Docker
 
 ---
 
-## CodeNest Platform
+#### CodeNest Platform
 
 Developer-oriented platform focused on improving code management and development efficiency.
 
@@ -115,7 +115,7 @@ Spring Boot · React · Redis · PostgreSQL
 
 ---
 
-# 🤖 AI / LLM Experiments
+### 🤖 AI / LLM Experiments
 
 Exploring how **AI can empower backend development**
 
@@ -129,7 +129,7 @@ Research directions:
 ---
 
 
-# 🌎 Connect With Me
+### 🌎 Connect With Me
 
 Email: 18661344507@163.com
 
