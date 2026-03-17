@@ -10,7 +10,7 @@
 
 ---
 
-# 🚀 关于我
+### 🚀 关于我
 
 - 工作地点：**青岛**
 
@@ -24,9 +24,9 @@
 
 ---
 
-# 🧠 技术栈
+###  技术栈
 
-### 后端
+#### 后端
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,docker,redis,kafka,rabbitmq,elasticsearch,linux,maven"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 前端
+#### 前端
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,vite"/>
@@ -55,7 +55,7 @@ UI 框架
 
 ---
 
-### 数据库
+#### 数据库
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
@@ -63,7 +63,7 @@ UI 框架
 
 ---
 
-### DevOps 与基础设施
+#### DevOps 与基础设施
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,kubernetes"/>
@@ -75,9 +75,9 @@ UI 框架
 
 ---
 
-# 📦 项目
+### 📦 项目
 
-## 智能运维平台（Intelligent Operation Platform）
+#### 智能运维平台（Intelligent Operation Platform）
 
 用于提升系统监控与运维效率的智能运维平台。
 
@@ -94,7 +94,7 @@ Spring Boot · MyBatis Plus · Redis · MySQL · Docker
 
 ---
 
-## CodeNest 开发者平台
+#### CodeNest 开发者平台
 
 面向开发者的代码管理与开发效率提升平台。
 
@@ -111,7 +111,7 @@ Spring Boot · React · Redis · PostgreSQL
 
 ---
 
-# 🤖 AI / LLM 实验
+### 🤖 AI / LLM 实验
 
 探索 **AI 如何赋能后端开发与系统架构**
 
@@ -124,7 +124,7 @@ Spring Boot · React · Redis · PostgreSQL
 
 ---
 
-# 🌎 联系方式
+### 🌎 联系方式
 
 Email: 18661344507@163.com
 
