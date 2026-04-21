@@ -29,7 +29,7 @@
 #### 后端
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,docker,redis,kafka,rabbitmq,elasticsearch,linux,maven"/>
+<img src="https://skillicons.dev/icons?i=c,go,java,spring,docker,redis,rabbitmq,elasticsearch,linux,maven"/>
 </p>
 
 - Spring Boot  
@@ -66,7 +66,7 @@ UI 框架
 #### DevOps 与基础设施
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,nginx"/>
 </p>
 
 - CI/CD 持续集成与部署  
